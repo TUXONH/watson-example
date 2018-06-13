@@ -1,0 +1,15 @@
+{
+  "name": "watson",
+  "version": "1.0.0",
+  "description": "watson first example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tuxonh",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "watson-developer-cloud": "^3.4.5"
+  }
+}
